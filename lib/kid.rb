@@ -1,4 +1,4 @@
-5 lines (11 sloc)  276 Bytes
+
 require_relative './dance_module.rb'
 require_relative './class_methods_module.rb'
 require_relative './fancy_dance.rb'
